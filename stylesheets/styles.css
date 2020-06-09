@@ -230,6 +230,18 @@ header, section, footer {
     text-shadow: #fff 0 1px 0;
     word-wrap:break-word
 }
+.gstusenseHeader {
+    position: auto;
+    top: 30px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0 0 0px;
+    color: #33CC66;
+    text-shadow: #fff 0 1px 0;
+    word-wrap:break-word
+}
 a {
     color: #069;
     text-decoration:none
