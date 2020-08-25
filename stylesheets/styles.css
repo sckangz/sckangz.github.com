@@ -650,7 +650,28 @@ a.label:focus, a.label:hover {
 .label-primary {
     background-color:#337ab7
 }
+.label-primary-link{
+    background-color:#0033FF
+}
+.label-primary-link-1{
+    background-color:#33FF66
+}
 
+.label-primary-paper{
+    background-color:#FF99FF
+}
+.label-primary-if{
+    background-color:#CCCCCC
+}
+.label-primary-year{
+    background-color:#999999
+}
+.label-primary-corresponding{
+    background-color:#9933FF
+}
+.label-primary-new{
+    background-color:#FF3333
+}
 .label-primary[href]:focus, .label-primary[href]:hover {
     background-color:#246caa
 }
